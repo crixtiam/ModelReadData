@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "453150353695",
+    "firebase_url": "https://readdata-aff50.firebaseio.com",
+    "project_id": "readdata-aff50",
+    "storage_bucket": "readdata-aff50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453150353695:android:9436654fbb22caf0fb682a",
+        "android_client_info": {
+          "package_name": "com.example.modelreaddata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453150353695-klnupsv5bti4220lon1blivqruc7gr96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.modelreaddata",
+            "certificate_hash": "a974dba1e5cb6a0226b47af2c0159f970b80deaa"
+          }
+        },
+        {
+          "client_id": "453150353695-ffq73m8sj5htc6p5q7i6shaol3r6efr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDxKzxLBFFy1tJqdZ-tpt-3uVnp6rBjf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453150353695-ffq73m8sj5htc6p5q7i6shaol3r6efr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
